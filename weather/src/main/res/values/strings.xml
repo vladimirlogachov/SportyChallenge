@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="forecast">Forecast</string>
+    <string name="continue_button">Continue</string>
+    <string name="dismiss_button">Dismiss</string>
+    <string name="request_permission_formatted">Request %1$s</string>
+    <string name="location_permission_access">Location Permission Access</string>
+    <string name="city">City</string>
+    <string name="clear">Clear</string>
+    <string name="search">Search</string>
+    <string name="hourly_forecast">Hourly forecast</string>
+    <string name="daily_forecast">Daily forecast</string>
+</resources>
