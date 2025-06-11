@@ -1,5 +1,8 @@
 # SportyChallenge
 
+![1](/screenshots/1.png)
+![2](/screenshots/2.png)
+
 ### AI tools
 * Ulla OpenWeather AI assistant - to choose proper endpoint
 * ChatGPT - to generate remote scheme and domain models 
